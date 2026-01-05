@@ -1,4 +1,11 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Description
+Welcome to [Sprunki mod.io](mod.io/g/sprunki4)! You can report bugs or discuss anything!
+___
+# Rules
+Follow our rules [here](https://mod.io/g/sprunki4/r/rules)!
+___
+# Our Team
+GonzaTV
+oakerslabberton
+sinetile
+BernardoValenti2014
